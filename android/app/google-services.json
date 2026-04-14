@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775834450902",
+    "project_id": "n64-catalogo",
+    "storage_bucket": "n64-catalogo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775834450902:android:011cd777bab8ebf0ac4277",
+        "android_client_info": {
+          "package_name": "com.example.n64_catalogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-aUGajBiDiPuTviwK5fYjebqt_CI7saQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
